@@ -1,8 +1,8 @@
-👋 Hi, Myself Yogendra Singh.
-👀 I’m interested in Web Development.
-🌱 I’m currently learning WEB DEV.
-💞️ I love CODING.
-📫 gmail - yogsa2819@gmail.com | contact- 8003786483
+👋 Hi, Myself Yogendra Singh. <br>
+👀 I’m interested in Web Development. <br>
+🌱 I’m currently learning WEB DEV. I've knowledge of HTML, CSS and JS <br>
+💞️ I love CODING. <br>
+📫 gmail - yogsa2819@gmail.com | contact- 8003786483 <br>
 
 
 <!---
